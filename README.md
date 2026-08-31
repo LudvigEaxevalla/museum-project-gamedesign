@@ -1,9 +1,10 @@
 # Git
 
-Klona repot -> git clone "länk till repot"
+Klona repot --> git clone "länk till repot"
+
 ---
 
-## Kör alltid git pull innan du gör ändringar
+### Kör alltid git pull innan du gör ändringar
 
 --- 
 
